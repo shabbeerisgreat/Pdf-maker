@@ -5,7 +5,7 @@
 
 **Transform your Markdown into stunning, professional PDFs — right in your browser.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://shabbeerisgreat.github.io/Pdf-maker/)
+[Live Demo](https://img.shields.io/badge/Live-Demo-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://shabbeerisgreat.github.io/Pdf-maker/
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-deployed?style=flat-square&logo=github)](https://shabbeerisgreat.github.io/Pdf-maker/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![No Build Step](https://img.shields.io/badge/Zero-Build_Step-success?style=flat-square)]()
