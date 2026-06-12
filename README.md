@@ -1,6 +1,3 @@
-You're right, let me send it directly to you here so you can just copy it!
-I did generate it! Here it is — copy everything below and paste it as your `README.md` on GitHub:
-
 ```markdown
 <div align="center">
 
@@ -119,13 +116,3 @@ Free to use, modify, and distribute.
 
 [⭐ Star this repo](https://github.com/shabbeerisgreat/Pdf-maker) · [🪳 Report a Bug](https://github.com/shabbeerisgreat/Pdf-maker/issues)
 
-</div>
-```
-
-**How to add it on GitHub:**
-1. Go to your repo → click **"Add file"** → **"Create new file"**
-2. Type `README.md` in the filename box
-3. Paste everything above
-4. Click **"Commit changes"**
-
-Done! Now anyone visiting your repo will instantly know what your tool does. 👍
